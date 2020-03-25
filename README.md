@@ -1,3 +1,7 @@
+## Example of i18next usage (for i18n ally)
+
+See `My.tsx` for the usage of `t`.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
